@@ -1,0 +1,11 @@
+body {
+	font-family: Tahoma;
+}
+
+.blue-div {
+	height: 100px;
+	background-color: gray;
+	padding: 50px;
+	border: 3px solid black;
+	margin: 50px;
+}
